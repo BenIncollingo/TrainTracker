@@ -34,6 +34,26 @@ The map page has a search option and a map of Amtrak lines. Users can search tra
 
 This page is where shareable links will lead to. By default, when accessed from the home sidebar and not from a sent link, a table with all available trains will be shown. These trains can be selected, and their links used as shareable links as well.
 
+Future Improvements:
+
+* Add user authentication for saved favorites.
+
+* Push notifications for train status updates.
+
+* More interactive route details on the map.
+
+Features
+
+* Search trains by number, line, or station.
+
+* View train details and station updates.
+
+* Save favorite searches for quick access.
+
+* Share train links easily.
+
+Interactive map of all active trains and routes.
+
 # Contribution
 
 Follow this [project board](https://github.com/orgs/cis3296f24/projects/105) to know the latest status of the project.
