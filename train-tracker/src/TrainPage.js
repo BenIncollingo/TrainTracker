@@ -104,7 +104,7 @@ function Tiebreaker(t){
     }
     return(
         <div className='tiebreaker'>
-            <h2>Multiple Results ({t.trains.length}):</h2>
+            <h2>All Results ({t.trains.length}):</h2>
             <div className="train-list-container">
                 <table className="train-list">
                     <thead>
